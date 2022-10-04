@@ -1,7 +1,7 @@
 # PXP-Website
 Gaming Organization based off the TV's Show Futurama's Website
 
-![Web Screen Shot](./PXP Website Screeny.png)
+![Web Screen Shot](./PXPWebsiteScreeny.png)
 
 ## Planet Express Crew (PXP)'s Website
 ### Description:
@@ -13,4 +13,4 @@ Like any other website, and on this one, you click around to find the easter egg
 ### Technologies: 
 To be listed...
 ### Collaborators: 
-Flexo Main source of Guidance and Troubleshooting
+Flexo - My Main source of Guidance and Troubleshooting!
